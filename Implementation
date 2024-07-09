@@ -1,0 +1,9 @@
+After the formation of the Blynk IOT update the following details in the Arduino Uno Code.
+#define BLYNK_TEMPLATE_ID 
+#define BLYNK_TEMPLATE_NAME 
+#define BLYNK_AUTH_TOKEN 
+Now compile the code after selecting the proper board and copy the link of hex file from terminal and paste it in the properties of ESP32 devkit in proteus 8 proofessional.
+Now run the circuit to check weather all the connections are correct.
+Now upload the code to ESP 32.
+Now calibarate the empty tank distance using the button.
+Your Device is ready.
